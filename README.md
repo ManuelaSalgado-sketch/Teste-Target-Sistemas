@@ -22,7 +22,7 @@ imprimir(SOMA);
 ```
 Ao final do processamento, qual será o valor da variável SOMA?
 
-[Resposta da questão 1](https://github.com/ManuelaSalgado-sketch/teste-target-sistemas/blob/master/out/production/Teste%20Target%20Sistemas/SomaSimples/SomaSimples.java) =  91 
+[Resposta da questão 1](https://github.com/ManuelaSalgado-sketch/Teste-Target-Sistemas/blob/master/out/production/Teste%20Target%20Sistemas/SomaSimples/SomaSimples.java) =  91 
 
 
 2) Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor sempre será a soma dos 2 valores anteriores (exemplo: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34...), escreva um programa na linguagem que desejar onde, informado um número, ele calcule a sequência de Fibonacci e retorne uma mensagem avisando se o número informado pertence ou não a sequência.
