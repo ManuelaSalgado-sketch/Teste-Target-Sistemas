@@ -69,4 +69,4 @@ a) Essa string pode ser informada através de qualquer entrada de sua preferênc
 
 b) Evite usar funções prontas, como, por exemplo, reverse;
 
-[Resposta questão 5](https://github.com/ManuelaSalgado-sketch/teste-target-sistemas/blob/master/out/production/Teste%20Target%20Sistemas/InverteString/InverteString.java)
+[Resposta questão 5](https://github.com/ManuelaSalgado-sketch/Teste-Target-Sistemas/blob/main/teste%20estagio/InverteString/InverteString.java)
